@@ -4,7 +4,7 @@
 
 ## CREATE DOCKER-COMPOSE
 
-# Excecute
+### Excecute
 
 ``` docker-compose up -d ```
 
@@ -17,7 +17,7 @@ curl -X 'POST' \
   -H 'Content-Type: application/json' \
   -d '{
   "name": "Mobile",
-  "customerId": "Basant",
+  "customerId": "Test",
   "productType": "Electronics",
   "quantity": 1,
   "price": 89000
